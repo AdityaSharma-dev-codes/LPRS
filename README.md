@@ -1,5 +1,3 @@
----
-
 ## RAG-Based System for Legal Precedent Retrieval and Summarization
 
 A RAG system for retrieving relevant Indian Supreme Court criminal-law
