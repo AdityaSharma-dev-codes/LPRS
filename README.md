@@ -1,16 +1,14 @@
-# Legal Precedent RAG
-
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-success)
-![NLP](https://img.shields.io/badge/NLP-Legal--NLP-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 ---
 
 ## RAG-Based System for Legal Precedent Retrieval and Summarization
 
 A RAG system for retrieving relevant Indian Supreme Court criminal-law
 precedents and generating grounded answers using retrieved judgment passages.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-success)
+![NLP](https://img.shields.io/badge/NLP-Legal--NLP-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
